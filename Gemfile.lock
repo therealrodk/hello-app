@@ -79,7 +79,7 @@ GEM
     minitest (5.11.3)
     multi_json (1.12.1)
     nio4r (2.3.1)
-    nokogiri (1.10.2)
+    nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     puma (3.9.1)
     rack (2.0.7)
@@ -146,7 +146,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
-    web-console (3.5.1)
+    web-console (3.7.0)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       bindex (>= 0.4.0)
@@ -173,7 +173,7 @@ DEPENDENCIES
   turbolinks (= 5.0.1)
   tzinfo-data
   uglifier (= 3.2.0)
-  web-console (= 3.5.1)
+  web-console (= 3.7.0)
 
 BUNDLED WITH
    1.17.3
