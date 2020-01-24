@@ -9,7 +9,7 @@ gem 'jquery-rails', '4.3.1'
 gem 'turbolinks', '5.0.1'
 gem 'jbuilder', '2.7.0'
 group :development, :test do
-gem 'byebug', '9.0.6', platform: :mri
+gem 'byebug', '11.1.1', platform: :mri
 end
 group :development do
 gem 'web-console', '3.5.1'
